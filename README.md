@@ -1,0 +1,2 @@
+# Retail-analytics
+ Explore gender-based spending trends on Black Friday with statistical methods like CLT, confidence intervals, and bootstrapping. Emphasizing women's higher transaction amounts, the project uncovers non-overlapping spending ranges for targeted improvements. Additionally, strategic insights on marital status and age groups enhance decision-making. 📊💼 #RetailAnalytics #DataScience #StatisticalMethods
